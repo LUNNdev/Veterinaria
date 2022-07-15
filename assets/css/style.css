@@ -1,0 +1,68 @@
+@font-face{
+   font-family: fuente_pizza;
+   src: url(../font/RubikMoonrocks-Regular.ttf) format('truetype');
+}
+
+img{
+   max-width:100%;
+   vertical-align: top;
+   float: left;
+   margin-right: 20px;
+}
+
+.img-logo{
+   width:3em;
+}
+
+.bg-navbar{
+
+   background-color:#69a88d  ;
+
+
+}
+
+.text-white-j{
+   color: white;
+}           
+
+.text-white-j:hover{
+   color: black;
+}           
+
+
+.title-site{
+   color: white;
+   font-size: 35px;
+   font-family:'fuente_pizza';
+}
+
+.btn-j:hover{
+   box-shadow: 1px 4px 10px black;
+}
+
+.btn-j{
+   display: inline-block;
+  padding: 5px;
+  font-family: 'arial';
+  
+  font-size: 13px;
+  font-weight: 10px;
+  line-height: 10px;
+
+  -webkit-user-select: none;
+  -moz-user-select: none;
+
+  
+  color:white;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  
+  cursor: pointer;
+  border: white 1px solid;
+  border-radius: 16px;
+  background-color: transparent;
+
+
+  
+}
